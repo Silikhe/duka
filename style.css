@@ -40,12 +40,21 @@
 
 }
 
+.shop{
+    color: #fff;
+    font-size: 120%;
+    padding: 2%;
+    background: #000000;
+    width: 60%;
+}
+
 .built{
-	background-color:white ;
+    background-color:white ;
+    margin-left: 1                                                                                                                              0%;
 	/* height:400%; */
 	/* width: 100%; */
-	margin-bottom: 50px;
-    /* padding-top: 2rem; */
+	margin-bottom: 10px;
+    padding-top: 2rem;
 
 
 
@@ -54,10 +63,12 @@
 .built img{
 
     object-fit: cover;
+    margin-left: 10%;
+    margin-top: 5%;
 
 }
 .explore{
-    margin-top: 10rem;
+    margin-top: 5rem;
     left: 16px;
 }
 .explore h1{
@@ -183,4 +194,14 @@ margin-top: 2rem;
     color: #ffffff;
     padding-top: 2rem;
     padding-bottom: 2rem;
+}
+
+.mailing{
+    color: #000000;
+    font-size: 20px;
+    font-weight: normal;
+    background: none;
+    border: 2px #000000 solid;
+    padding: 5px 15px 5px 15px;
+    /* width: 60%; */
 }
